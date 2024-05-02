@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Jan-Terje Vidhammer
+# Author: JanTDO
 
 # This script takes filename as commandline arugment, and will convert
 # pcap to csv, this script requires tshark, as it depends on tshark for
